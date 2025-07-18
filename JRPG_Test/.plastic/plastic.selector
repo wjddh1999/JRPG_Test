@@ -1,0 +1,4 @@
+repository "JRPG_Test/JRPG_Test 2025-07-18_13-46-03@14568936803211@cloud"
+  path "/"
+    br "/main"
+    co "/main"
